@@ -1,3 +1,8 @@
+# Evidence
+
+* Please read screenshots folder in Github.
+* All related backend is configured in client, please run local to test.
+
 # Serverless TODO
 
 To implement this project, you need to implement a simple TODO application using AWS Lambda and Serverless framework. Search for all comments starting with the `TODO:` in the code to find the placeholders that you need to implement.
